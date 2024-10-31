@@ -1,0 +1,47 @@
+------------------------------------------------------------
+                DIGITAL SECURITY USING STEGANOGRAPHY
+      
+                   Steganography Implementation 
+============================================================
+  
+
+The user has to login by entering the appropriate login names and passwords,to get access to the main system.
+
+This software lets you embed important or private messages uncompressed format files like .BMP Bitmap images,etc. 
+There is no loss to the quality of the images as it uses the least significant bits of the file which are not used by 
+the Image viewer.
+
+Help topics:
+----------------------------------------------------------------
+1. Encrypting a message in an Image file:
+----------------------------------------------------------------
+
+		A. Choose the image file to be encrypted as input with BROWSE button.
+		B. Enter the text message to be embedded in the image in the provided text area.
+		C. After entering the private message,you should provide a 4 digit key,by pressing the NEXT button which then
+                   encrypts the message embedded image.
+		D. Now save the encrypted image in desired location by pressing the SAVE button.
+
+----------------------------------------------------------------
+2. Decrypting the encrypted message file for private message:
+----------------------------------------------------------------
+
+		A. Choose the encrypted image file as input for retrieving the hidden message .
+		B. Enter the same 4 digit key as input,which performs the deryption of image .
+		C. Now the private message embedded in the image file during encryption will be seen on the text area.
+
+----------------------------------------------------------------
+3. Obtaining help:
+----------------------------------------------------------------
+
+		A. All components are provided with tooltip text.
+		B. Click on Help Menu in the main menu window.
+
+	If you have any questions or concerns about the programme, you can write to maruthipuligandla@gmail.com.
+
+==============================================================
+Thanks for using this Steganography.
+
+
+-------------------------------------------------------------------------------------------------
+				***********************************
